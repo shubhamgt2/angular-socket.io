@@ -1,4 +1,20 @@
-# AngularSocket
+# Angular and Socket.IO
+Angular setup with express and socket.io to detect online users in real time.
+
+To use, first install dependencies
+```
+> npm install
+```
+
+To build with webpack
+```
+> npm run build
+```
+
+To run express server
+```
+> npm start
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.2.
 
